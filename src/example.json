@@ -1,0 +1,24 @@
+[
+  {
+    "id":1,
+    "title":"Aliens",
+    "director": "James",
+    "year": 1986,
+    "rating":"8.5"
+  },
+  {
+    "id":2,
+    "title":"Spiderman",
+    "director": "Sam",
+    "year": 2000,
+    "rating":"10"
+  },
+  {
+    "id":3,
+    "title":"Guardians of the galaxy",
+    "director": "James Gung",
+    "year": 2014,
+    "rating":"10"
+  }
+
+]
